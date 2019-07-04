@@ -1,3 +1,3 @@
-# nxdumptest
+# emummc-toggle
 
-This is only a test for a sysmodule I'm creating later.
+Finished this right before I saw the hekate update. :(
